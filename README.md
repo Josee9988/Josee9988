@@ -26,10 +26,10 @@ Full-time **computer engineering** student. Superior technician in web applicati
 
 ## **📫 How to reach me**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-gracia/)](https://www.linkedin.com/in/jose-gracia/)
-[![Wakatime Badge](https://img.shields.io/badge/-WakaTime-c14430?style=flat&logo=Wakatime&logoColor=white&link=https://wakatime.com/@Josee9988&color=green)](https://wakatime.com/@Josee9988)
-[![Stack Overflow Badge](https://img.shields.io/badge/-StackOverflow-orange?style=flat&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/9630043/jose9988?tab=profile)](https://stackoverflow.com/users/9630043/jose9988?tab=profile)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14430?style=flat&logo=Gmail&logoColor=white&link=mailto:jgracia9988@gmail.com)](mailto:jgracia9988@gmail.com)
-[![StackShare Badge](https://img.shields.io/badge/-StackShare-blue?style=flat&logo=stackshare&logoColor=white&link=https://stackshare.io/Josee9988)](mailto:jgracia9988@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-gracia/)](https://www.linkedin.com/in/jose-gracia/)
+[![Wakatime Badge](https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white&link=https://wakatime.com/@Josee9988&color=green)](https://wakatime.com/@Josee9988)
+[![Stack Overflow Badge](https://img.shields.io/badge/-StackOverflow-orange?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/9630043/jose9988?tab=profile)](https://stackoverflow.com/users/9630043/jose9988?tab=profile)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14430?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jgracia9988@gmail.com)](mailto:jgracia9988@gmail.com)
+[![StackShare Badge](https://img.shields.io/badge/-StackShare-blue?style=for-the-badge&logo=stackshare&logoColor=white&link=https://stackshare.io/Josee9988)](mailto:jgracia9988@gmail.com)
 
-Thanks!
+_Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)**_
