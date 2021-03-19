@@ -16,7 +16,7 @@ Full-time **computer engineering** student. Superior technician in web applicati
 ---
 
 - 🔭 I’m currently working on my engineer's degree.
-- 🌱 I’m currently learning C and improving my Java skills.
+- 🌱 I’m currently learning concurrency in C and analysis of algorithms.
 - 👯 I’m looking to start a brand new project/idea.
 - 🤔 I’m looking for help finding a job while I end up my university career.
 - 💬 Ask me about anything, for now, I'm fully open to new projects, collaborations or ideas!
