@@ -13,11 +13,11 @@ Full-time **computer engineering student**🧑‍🎓🎓. Senior technician in 
 ---
 
 - 🔭 I’m currently working on my engineer's degree.
-- 🌱 I’m currently learning C and improving my Java skills.
-- 👯 I’m looking to start a brand new project/idea.
-- 🤔 I’m looking for help finding a job while I end up my university career.
-- 💬 Ask me about anything, for now, I'm fully open to new projects, collaborations or ideas!
-- ⚡ Fun fact: Others turn coffee into code, I prefer working out 🏋🏽 or going out with the bike 🚴 :D
+- 🌱 I’m learning concurrency in C and the analysis of algorithms.
+- 👯 I’m looking to start a brand-new project/idea.
+- 🤔 I’m looking for help finding a job while I finish up my university career.
+- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
+- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
 
 ---
 
