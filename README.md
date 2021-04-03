@@ -2,9 +2,9 @@
 
 # Hi there, I'm **[Jose Gracia Berenguer!](https://jgracia.es)** 👋
 
-[![Josee9988's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josee9988&theme=monokai&hide=html)]
-[![Josee9988's github stats](https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true)]
-[![Josee9988's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats)]
+![Josee9988's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josee9988&theme=monokai&hide=html)
+![Josee9988's github stats](https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true)
+![Josee9988's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats)
 
 <br>
 
