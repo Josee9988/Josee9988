@@ -2,7 +2,7 @@
 
 # Hi there, I'm **[Jose Gracia Berenguer](https://jgracia.es)**! 👋
 
-<div style="text-align:center">
+<div align="center" style="text-align:center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josee9988&theme=monokai&hide=html" alt="Josee9988's most used languages">
     <img src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true" alt="Josee9988's github stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats" alt="Josee9988's wakatime last year stats">
@@ -27,7 +27,7 @@ Full-time **computer engineering student**🧑‍🎓🎓. Senior technician in 
 
 ## **📫 How to reach me**
 
-<div style="text-align:center">
+<div align="center" style="text-align:center">
   <a href="mailto:jgracia9988@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Josee9988's Gmail">
   </a>
