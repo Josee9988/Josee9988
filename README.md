@@ -1,18 +1,20 @@
 <!-- markdownlint-disable MD033 MD042-->
 
-# Hi there, I'm **[Jose Gracia Berenguer!](https://jgracia.es)** 👋
+# Hi there, I'm **[Jose Gracia Berenguer](https://jgracia.es)**! 👋
 
-<div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josee9988&theme=monokai&hide=html" alt="Josee9988's most used languages"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true" alt="Josee9988's github stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"/>
+<div style="text-align:center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josee9988&theme=monokai&hide=html" alt="Josee9988's most used languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true" alt="Josee9988's github stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats" alt="Josee9988's wakatime last year stats">
 </div>
 
 <br>
 
-Full-time **computer engineering student**🧑‍🎓🎓. Senior technician in web applications development (DAW). Technician in microcomputer systems and networks (SMR).
+Full-time **computer engineering student**🧑‍🎓🎓. Senior technician in web applications development ([DAW](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/des-aplicaciones-web.html)). Technician in microcomputer systems and networks ([SMR](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)).
 
 ---
+
+## **😊 About me**
 
 - 🔭 I’m currently working on my engineer's degree.
 - 🌱 I’m learning concurrency in C and the analysis of algorithms.
@@ -25,12 +27,12 @@ Full-time **computer engineering student**🧑‍🎓🎓. Senior technician in 
 
 ## **📫 How to reach me**
 
-<div align="center">
+<div style="text-align:center">
   <a href="mailto:jgracia9988@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Josee9988's Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Josee9988's Gmail">
   </a>
   <a href="https://stackoverflow.com/users/9630043/jose998/">
-    <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="Josee9988's StackOverflow"/>
+    <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="Josee9988's StackOverflow">
   </a>
   <a href="https://wakatime.com/@Josee9988/">
     <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green" alt="Josee9988's Wakatime">
