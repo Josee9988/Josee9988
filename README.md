@@ -10,7 +10,7 @@
 
 <br>
 
-Full-time **computer engineering student**🧑‍🎓🎓. Senior technician in web applications development ([DAW](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/des-aplicaciones-web.html)). Technician in microcomputer systems and networks ([SMR](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)).
+Full-time **computer engineering student** ([CE](https://www.upv.es/contenidos/SMAT/epsa/756188normalc.html))🧑‍🎓🎓. Senior technician in web applications development ([DAW](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/des-aplicaciones-web.html)). Technician in microcomputer systems and networks ([SMR](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)).
 
 ---
 
@@ -53,5 +53,7 @@ Full-time **computer engineering student**🧑‍🎓🎓. Senior technician in 
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Josee9988's dev.to">
   </a>
 </div>
+
+<br>
 
 _Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)**_
