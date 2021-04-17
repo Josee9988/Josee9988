@@ -45,6 +45,8 @@ Full-time **computer engineering student** ([CE](https://www.upv.es/contenidos/S
   </a>
   <a href="https://discord.gg/mzGepKfE5q">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Josee9988's discord">
+  </a>  <a href="https://octolife.now.sh/Josee9988">
+    <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white" alt="Josee9988's octolife">
   </a>
   <a href="https://dev.to/josee9988">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Josee9988's dev.to">
