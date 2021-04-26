@@ -4,8 +4,10 @@
 
 <div align="center" style="text-align:center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josee9988&theme=monokai&hide=html" alt="Josee9988's most used languages">
-    <img src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true" alt="Josee9988's github stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats" alt="Josee9988's wakatime last year stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true" alt="Josee9988's Github stats">
+    <a href="https://wakatime.com/@Josee9988/">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats" alt="Josee9988's wakatime last year stats">
+    </a>
 </div>
 
 <br>
@@ -45,7 +47,8 @@ Full-time **computer engineering student** ([CE](https://www.upv.es/contenidos/S
   </a>
   <a href="https://discord.gg/mzGepKfE5q">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Josee9988's discord">
-  </a>  <a href="https://octolife.now.sh/Josee9988">
+  </a>  
+  <a href="https://octolife.now.sh/Josee9988">
     <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white" alt="Josee9988's octolife">
   </a>
   <a href="https://dev.to/josee9988">
