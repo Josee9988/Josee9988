@@ -21,15 +21,15 @@ Full-time **computer engineering student** ([CE](https://www.upv.es/contenidos/S
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true"
+        <img style="width:49%" src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true"
             alt="Josee9988's Github stats">
     </a>
     <a href="#">
-        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Josee9988&theme=monokai"
+        <img style="width:49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Josee9988&theme=monokai"
             alt="Josee9988's Github commit streak">
     </a>
     <a href="https://wakatime.com/@Josee9988/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+        <img style="width:70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
             alt="Josee9988's wakatime last year stats">
     </a>
 </div>
