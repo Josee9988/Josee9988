@@ -1,80 +1,97 @@
-<!-- markdownlint-disable MD033 MD042-->
+<!-- markdownlint-disable MD032 MD033-->
+<!-- Write your README.md file. Build something amazing! This README.md template can guide you to build your project documentation, but feel free to modify it as you wish 🥰 -->
+# 🔥 **Josee9988/Josee9988**
 
-# Hi there, I'm **[Jose Gracia Berenguer](https://jgracia.es)**! 👋
-
-Full-time **computer engineering student** ([CE](https://www.upv.es/contenidos/SMAT/epsa/756188normalc.html))🧑‍🎓🎓. Senior technician in web applications development ([DAW](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/des-aplicaciones-web.html)). Technician in microcomputer systems and networks ([SMR](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)).
-
----
-
-## **😊 About me**
-
-- 🔭 I’m currently working on my engineer's degree.
-- 🌱 I’m learning concurrency in C and the analysis of algorithms.
-- 👯 I’m looking to start a brand-new project/idea.
-- 🤔 I’m looking for help finding a job while I finish up my university degree.
-- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
-
----
-
-## **📊 Stats**
-
-<div align="center" style="text-align:center">
-    <a href="#">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true"
-            alt="Josee9988's Github stats">
-    </a>
-    <a href="#">
-        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Josee9988&theme=monokai"
-            alt="Josee9988's Github commit streak">
-    </a>
-    <a href="https://wakatime.com/@Josee9988/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-            alt="Josee9988's wakatime last year stats">
-    </a>
+<div align="center">
+  <a href="https://github.com/Josee9988/Josee9988/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/Josee9988/Josee9988?color=0088ff&style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/Josee9988/Josee9988/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Josee9988/Josee9988?color=0088ff&style=for-the-badge&logo=github"/>
+  </a>
 </div>
 
 ---
 
-## **📫 How to reach me**
+## 🤔 **About the project**
 
-<div align="center" style="text-align:center">
-    <a href="mailto:jgracia9988@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Josee9988's Gmail">
-    </a>
-    <a href="https://stackoverflow.com/users/9630043/jose998/">
-        <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
-            alt="Josee9988's StackOverflow">
-    </a>
-    <a href="https://wakatime.com/@Josee9988/">
-        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
-            alt="Josee9988's Wakatime">
-    </a>
-    <a href="https://profile.codersrank.io/user/josee9988/">
-        <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
-            alt="Josee9988's CodersRank">
-    </a>
-    <a href="https://www.linkedin.com/in/jose-gracia/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="Josee9988's LinkedIn">
-    </a>
-    <a href="https://discord.gg/mzGepKfE5q">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-            alt="Josee9988's discord">
-    </a>
-    <a href="https://octolife.now.sh/Josee9988">
-        <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
-            alt="Josee9988's octolife">
-    </a>
-    <a href="https://dev.to/josee9988">
-        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-            alt="Josee9988's dev.to">
-    </a>
-</div>
+* <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
 
 ---
 
-<br>
+## ⚡ **Installation**
+
+* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+
+---
+
+## 🚀 **Usage**
+
+* <!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
+
+---
+
+## 🌲 **Project tree**
+
+<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
+
+---
+
+## 📝 **Additional notes**
+
+* <!-- ... [ADD ADDITIONAL NOTES] -->
+
+---
+
+## 📸 **Screenshots**
+
+<!-- ... [SOME DESCRIPTIVE IMAGES] -->
+
+---
+
+## 🍰 **Supporters and donators**
+
+We are currently looking for new donators to help and maintain this project! ❤️
+
+By donating, you will help the development of this project, and *you will be featured in this Josee9988's README.md* so everyone can see your kindness and visit your content ⭐.
+
+<a href="https://github.com/sponsors/Josee9988"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
+  <img src="https://img.shields.io/badge/Sponsor-Josee9988/Josee9988-blue?logo=github-sponsors&style=for-the-badge&color=red">
+</a>
+
+<!-- LINK TO YOUR DONATING PAGES HERE -->
+
+---
+
+Josee9988 was generated from *[Josee9988/project-template](https://github.com/Josee9988/project-template)* 📚
+
+---
+
+## 🕵️ Extra recommendations
+
+* <!-- If you recommend installing anything special, or if you recommend using X thing for the good use of your project...-->
+
+---
+
+## 🎉 Was the Github profile README helpful? Help us raise these numbers up
+
+[![Github followers](https://img.shields.io/github/followers/Josee9988.svg?style=social)](https://github.com/Josee9988)
+[![Github stars](https://img.shields.io/github/stars/Josee9988/Josee9988.svg?style=social)](https://github.com/Josee9988/Josee9988/stargazers)
+[![Github watchers](https://img.shields.io/github/watchers/Josee9988/Josee9988.svg?style=social)](https://github.com/Josee9988/Josee9988/watchers)
+[![Github forks](https://img.shields.io/github/forks/Josee9988/Josee9988.svg?style=social)](https://github.com/Josee9988/Josee9988/network/members)
+<!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=github-sponsors&color=red&style=social)](https://github.com/sponsors/Josee9988)
+
+Enjoy! 😃
+
+---
+
+## ⚖️📝 **License and Changelog**
+
+See the license in the '**[LICENSE](LICENSE)**' file.
+
+Watch the changes in the '**[CHANGELOG.md](CHANGELOG.md)**' file.
+
+---
 
 _Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)**_

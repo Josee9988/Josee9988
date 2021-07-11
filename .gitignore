@@ -1,0 +1,16 @@
+###> Josee9988/Josee9988 ###
+
+# Folders
+.vscode/
+.idea/
+
+# Files
+ignore.*
+*.ignore.*
+
+# Environment variables and secret keys
+.env
+.env.test
+*.pem
+
+###< Josee9988/Josee9988 ###
