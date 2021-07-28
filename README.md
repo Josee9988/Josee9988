@@ -21,11 +21,11 @@ Full-time **computer engineering student** (**[CE](https://www.upv.es/contenidos
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true"
             alt="Josee9988's Github stats">
     </a>
     <a href="#">
-        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Josee9988&theme=monokai"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Josee9988&theme=monokai"
             alt="Josee9988's Github commit streak">
     </a>
     <a href="https://wakatime.com/@Josee9988/">
@@ -58,10 +58,6 @@ Full-time **computer engineering student** (**[CE](https://www.upv.es/contenidos
     <a href="https://www.linkedin.com/in/jose-gracia/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Josee9988's LinkedIn">
-    </a>
-    <a href="https://discord.gg/mzGepKfE5q">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-            alt="Josee9988's discord">
     </a>
     <a href="https://octolife.now.sh/Josee9988">
         <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
