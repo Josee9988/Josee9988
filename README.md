@@ -4,6 +4,8 @@
 
 Full-time **computer engineering student** (**[CE](https://www.upv.es/contenidos/SMAT/epsa/756188normalc.html)**)🧑‍🎓🎓. Senior technician in web applications development (**[DAW](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)**). Technician in microcomputer systems and networks (**[SMR](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)**).
 
+My **[web portfolio (jgracia.es)](https://jgracia.es/)🧙‍♂️** can help you understand my career path and professional trajectory.
+
 ---
 
 ## **😊 About me**
