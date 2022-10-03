@@ -4,16 +4,16 @@
 
 Full-time **computer engineering student** 3rd year (**[CE](https://www.upv.es/contenidos/SMAT/epsa/756188normalc.html)**)🧑‍🎓🎓. Senior technician in web applications development (**[DAW](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)**). Technician in microcomputer systems and networks (**[SMR](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)**).
 
-My **[web portfolio (jgracia.es)](https://jgracia.es/)🧙‍♂️** can help you understand my career path and professional trajectory.
+My **[web portfolio (jgracia.es)](https://jgracia.es/)🧙‍♂️** can help you understand my career and professional trajectory.
 
 ---
 
 ## **😊 About me**
 
-- 🔭 I’m currently working on my engineer's degree.
-- 🌱 I’m learning C and Python.
-- 👯 I’m looking to start a brand-new project/idea.
-- 🤔 I’m looking for help finding a job while I finish up my university degree.
+- 🔭 I'm currently working on my engineer's degree.
+- 🌱 I'm learning C and Python.
+- 👯 I'm looking to start a brand-new project/idea.
+- 🤔 I'm looking for help finding a job while I finish my university degree.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
 
