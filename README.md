@@ -2,9 +2,12 @@
 
 # Hi there, I'm **[Jose Gracia Berenguer](https://jgracia.es)**! 👋
 
-Full-time **computer engineering student** 3rd year (**[CE](https://www.upv.es/contenidos/SMAT/epsa/756188normalc.html)**)🧑‍🎓🎓. Senior technician in web applications development (**[DAW](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)**). Technician in microcomputer systems and networks (**[SMR](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)**).
+I'm currently a third-year full-time **Computer Engineering student** (**[CE](https://www.upv.es/contenidos/SMAT/epsa/756188normalc.html)**) at the UPV🧑‍🎓🎓.
+In addition to my degree, I have also completed a **Senior technician qualification in Web Applications Development** (**[DAW](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)**) and a **Technician qualification in Microcomputer Systems and Networks** (**[SMR](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)**).
 
-My **[web portfolio (jgracia.es)](https://jgracia.es/)🧙‍♂️** can help you understand my career and professional trajectory.
+On my website **[web portfolio (jgracia.es)](https://jgracia.es/)🧙‍♂️**, you can find more information about my career and professional background.
+
+Thank you for stopping by.
 
 ---
 
