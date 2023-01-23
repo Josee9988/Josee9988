@@ -14,7 +14,7 @@ Thank you for stopping by.
 ## **😊 About me**
 
 - 🔭 I'm currently working on my engineer's degree.
-- 🌱 I'm learning C and Python.
+- 🌱 I'm learning machine learning.
 - 👯 I'm looking to start a brand-new project/idea.
 - 🤔 I'm looking for help finding a job while I finish my university degree.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
