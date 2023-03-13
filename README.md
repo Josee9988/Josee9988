@@ -64,10 +64,6 @@ Thank you for stopping by.
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Josee9988's LinkedIn">
     </a>
-    <a href="https://octolife.now.sh/Josee9988">
-        <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
-            alt="Josee9988's octolife">
-    </a>
     <a href="https://dev.to/josee9988">
         <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
             alt="Josee9988's dev.to">
