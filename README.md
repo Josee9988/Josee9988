@@ -74,4 +74,4 @@ Thank you for stopping by.
 
 <br>
 
-_Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)**_
+_Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)** | for more information please visit **[jgracia.es](https://jgracia.es/)**_
