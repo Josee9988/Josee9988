@@ -15,10 +15,12 @@ Thank you for stopping by.
 
 - 🔭 I'm currently working on my engineer's degree while I work as a software developer.
 - 🌱 I'm learning Go.
-<!--- 👯 I'm looking to start a brand-new project/idea.
-- 🤔 I'm looking for new .-->
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
+
+<!--- Extra things to add in the future
+
+👯 I'm looking to....  - 🤔 I'm looking for new .-->
 
 ---
 
