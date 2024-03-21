@@ -2,7 +2,7 @@
 
 # Hi there, I'm **[Jose Gracia Berenguer](https://jgracia.es)**! 👋
 
-I'm currently a fourth-year full-time **Computer Engineering student** (**[CE](https://www.upv.es/contenidos/SMAT/epsa/756188normalc.html)**) at the UPV🧑‍🎓🎓.
+I'm a **Software Engineering** (**[CE](https://www.upv.es/contenidos/SMAT/epsa/756188normalc.html)**) studiet at the UPV🧑‍🎓🎓.
 In addition to my degree, I have also completed a **Senior technician qualification in Web Applications Development** (**[DAW](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)**) and a **Technician qualification in Microcomputer Systems and Networks** (**[SMR](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)**).
 
 On my website **[web portfolio (jgracia.es)](https://jgracia.es/)🧙‍♂️**, you can find more information about my career and professional background.
@@ -13,8 +13,8 @@ Thank you for stopping by.
 
 ## **😊 About me**
 
-- 🔭 I'm currently working on my engineer's degree while I work as a software developer.
-- 🌱 I'm learning Go.
+- 🔭 I'm currently working while I continue studying new technologies.
+- 🌱 I'm learning Go and React.js.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
 
