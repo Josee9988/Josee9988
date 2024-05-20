@@ -54,7 +54,7 @@ Thank you for stopping by.
         <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
             alt="Josee9988's StackOverflow">
     </a>
-    <a href="https://wakatime.com/@Josee9988/">
+    <a href="https://wakatime.com/@Josee9988">
         <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
             alt="Josee9988's Wakatime">
     </a>
